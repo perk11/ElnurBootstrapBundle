@@ -15,13 +15,13 @@ To install the bundle itself, add the following to your `composer.json`:
 
     {
         "require": {
-            "elnur/bootstrap-bundle": "~0.1"
+            "sameddin/bootstrap-bundle": "~0.1"
         }
     }
 
 And tell Composer to install the bundle:
 
-    $ php composer.phar update elnur/bootstrap-bundle
+    $ php composer.phar update sameddin/bootstrap-bundle
 
 Then enable the bundle by adding the following to your `AppKernel.php`:
 
